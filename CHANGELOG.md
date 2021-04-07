@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.6.4] - 2021-03-30
+### Changed
+- Upgrade @kloudless/file-picker-plupload-module to 1.0.1.
+### Fixed
+- `accountId` was not correctly passed to the `deleteAccount` event handler.
+
+
 ## [2.6.3] - 2021-02-22
 
 ### Fixed
